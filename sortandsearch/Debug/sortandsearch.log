@@ -1,0 +1,6 @@
+﻿  selection_sort.c
+C:\Users\mitha\source\repos\sortandsearch\sortandsearch\selection_sort.c(9,11): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\sortandsearch\sortandsearch\selection_sort.c(9,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\sortandsearch\sortandsearch\selection_sort.c(40,33): warning C4101: 'start' :참조되지 않은 지역 변수입니다.
+C:\Users\mitha\source\repos\sortandsearch\sortandsearch\selection_sort.c(75,12): warning C4098: 'search': 'void' 함수에서 값을 반환하고 있습니다.
+  sortandsearch.vcxproj -> C:\Users\mitha\source\repos\sortandsearch\Debug\sortandsearch.exe
